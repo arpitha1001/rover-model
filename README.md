@@ -4,7 +4,7 @@ A rover model project developed from scratch, documenting the design process, de
 
 ## 📌 Project Overview
 
-This repository documents my Rover Model project. It serves as a record of the project's design, development stages, and supporting documentation.
+This repository documents my Rover Model project.It serves as a record of the project's design, development stages, and supporting documentation.
 
 **Project Status:** In Progress
 
