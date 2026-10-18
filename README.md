@@ -45,7 +45,7 @@ The PDF contains the initial project document. Additional design files, images, 
 
 ## 📄 Documentation
 
-See [`rover-model.pdf`](rover-model.pdf) for the initial project document.
+See [`rover-model.pdf`](https://github.com/arpitha1001/rover-model/blob/main/ROVER%20MODEL.pdf)for the initial project document.
 
 ## 👩‍💻 Author
 
